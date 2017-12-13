@@ -1,0 +1,58 @@
+"Attacking Faulty Reasoning"
+By T. Edward Damer
+http://amzn.to/2Aey02z
+
+
+A sound argument must consist of 
+       A: a set of premises, each of which must be true and 
+       B: a conclusion that must follow from the premises in a logical form.
+There are two types of arguments, deductive and deductive. 
+A deductive argument is "one whose form is such that the conclusion follows with logical necessity or 
+certainty from the premise." ("All sodas are carbonated" and "Pepsi is a soda" hence "Pepsi is 
+carbonated.")
+An inductive argument is one in which the premises provide some, but not all, of the evidence for the 
+truth of the conclusion. This approach, however is not foolproof ("Joe is a popular guy" "Popular people 
+can win an election" hence "Joe will win the election"). Any conclusion of an inductive argument is only 
+probable. 
+A fallacy is a mistake in reasoning, and a fallacious argument is one that contains one or more fallacies. 
+Fallacious reasoning can also be used as a diversionary technique or to muddle clear thinking. 
+Fallacies of Linguistic Confusion
+Equivocation involves "making a word or phrase, employed in two different senses in an argument, 
+appear to have the same meaning throughout." For an argument to be sound, words must maintain the 
+same definition throughout.
+Example: "My professor tells me learning logic will teach me how to argue." "But people argue too 
+much today anyway," with the word "argue" being used in two different senses.
+Disarm: By asking for precise definition of the word in question. Or, look for an absurd example that 
+points out the misuse ("Only men are rational" and "No man is a woman" ergo "No woman is rational").
+
+Semantical Ambiguity involves using a word that can be interpreted in two different ways, without 
+making clear which of the two ways the word is meant. ? With equivocation, the word is deliberately 
+misused, but with semantical ambiguity, it is left up to the listener to misinterpret the meaning. 
+Example: "Yesterday I moved into a new house." Is the house "new" or is it just new for me 
+Disarm: Identify the confused or ambiguous word, ask the speaker for the meaning. If that is not 
+possible, explicitly hypothesize about the intended meaning and draw conclusions from there. 
+
+Syntactical Ambiguity involves using ambiguities in grammatical construction such that a claim can be 
+legitimately interpreted in two different ways. Syntactical Ambiguity is different from semantical 
+ambiguity in that it can be resolved through the reconstruction of the statement. Syntactic confusion 
+("amphiboles" as grammarians call it) can arise from unclear pronoun reference, elliptical construction, 
+unclear modifiers, careless use of words such as "only" and "all." 
+Example: "John likes poker better than his wife." Better than his wife likes poker, or he likes poker more 
+than he likes his wife?  
+Disarm: Ask the speaker for a reconstruction of the phrase.
+
+False Ambiguity involves the listener assuming an improper conclusion from carelessly or knowingly 
+interpreting a word, or phrase with multiple meanings. The interpretation is not justified by the context..
+Example: Someone seeing the sign "Free picnic tables ahead" assuming that taking a picnic table be OK 
+because it is free.
+Disarm: confront the person directly, pointing out what it is about the context that makes the 
+interpretation unjustified. 
+
+16/130
+
+
+
+       
+
+
+
